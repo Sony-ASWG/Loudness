@@ -1,3 +1,5 @@
+Sony PlayStation Studios' Audio Standards Working Group - Average Loudness and Peak Levels of Audio Content on Sony Interactive Entertainment Platforms
+
 This is an update to v.1.1, first published in August 2013.
 
 Prior to that time, the loudness of audio content
